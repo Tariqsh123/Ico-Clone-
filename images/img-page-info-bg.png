@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Icoclone.com - 404 - Page not found</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="assets/img/favicon.ico" rel="shortcut icon"/>
+<link rel="stylesheet" href="https://www.icoclone.com/css/customnew.css" type="text/css">
+</head>
+
+<body class="static-full-background">
+<div class="container">
+<div align="center">
+<div class="content">
+<h2 class="title-w">something went wrong</h2>
+<img src="https://www.icoclone.com/images/404-ico-clone.png" class="img-responsive own-img" />
+<h1 class="t-gray">Page Not Found.</h1>
+<h4 class="title-w pt-10">Sorry! The page You're looking for cannot be found.</h4>
+<div class="btn-bg">
+<a href="https://www.icoclone.com/">Take me away</a>
+</div>
+</div>
+</div>
+</div>	
+
+</body>
+</html>
